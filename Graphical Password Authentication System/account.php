@@ -10,7 +10,7 @@ ob_start();
 <title>Account</title>
 
 
-<body bgcolor="#333333" text="#FFFFFF" marginwidth="45">
+<body bgcolor="#000" text="#FeFeFe" marginwidth="45">
 <?php
 include("connect.php");
 $name=$_SESSION['uname'];
